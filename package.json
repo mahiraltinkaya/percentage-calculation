@@ -1,0 +1,35 @@
+{
+  "name": "@mahiraltinkaya/percantage-calculation",
+  "version": "1.0.0",
+  "description": "Calculating the percentage of a number or finding the number itself with the percentage included.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mahiraltinkaya/percentage-calculation.git"
+  },
+  "keywords": [
+    "calculate",
+    "percantage",
+    "calculating",
+    "percantage",
+    "javascript",
+    "node",
+    "nodejs",
+    "react",
+    "angular",
+    "vue"
+  ],
+  "author": "Mahir Altinkaya <mahiraltinkaya@gmail.com> (https://lustrous-basbousa-314294.netlify.app/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahiraltinkaya/percentage-calculation/issues"
+  },
+  "homepage": "https://github.com/mahiraltinkaya/percentage-calculation#readme",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {}
+}
